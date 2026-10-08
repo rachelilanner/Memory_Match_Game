@@ -3,7 +3,7 @@
 This program is a cyber-themed memory matching game.
 The objective is to find all matching pairs of cards.
 
-All cards start face-down. The player selects two card positions.
+All cards start 'face-down'. The player selects two card positions.
 If the selected cards match, they remain revealed.
 If they do not match, they are hidden again after a short delay.
 
